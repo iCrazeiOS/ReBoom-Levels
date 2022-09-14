@@ -1,6 +1,0 @@
-# format is 'displayname::filename'
-# do not include '.plhs' extension in filename
-# display name must not start with a '#'
-# filename must patch what is found in 'Levels' directory
-
-Custom Psychic Spikes::Custom_Psychic_Spikes
