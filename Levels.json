@@ -1,4 +1,10 @@
-{
-    "display_name": "Custom Psychic Spikes",
-    "filename": "Custom_Psychic_Spikes"
-}
+[
+    {
+        "display_name": "Psychic Spikes",
+        "filename": "Psychic_Spikes",
+        "author": "lachylegend"
+    }, {
+        "display_name": "Spitch",
+        "filename": "Spitch"
+    }
+]
