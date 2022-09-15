@@ -3883,5 +3883,7 @@
 		<key>ProjectName</key>
 		<string>Boom!</string>
 	</dict>
+	<key>CustomLevelName</key>
+	<string>Custom_Boom_Numen</string>
 </dict>
 </plist>

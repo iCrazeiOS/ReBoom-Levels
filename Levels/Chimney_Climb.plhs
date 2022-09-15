@@ -2691,5 +2691,7 @@
 		<key>ProjectName</key>
 		<string>Boom!</string>
 	</dict>
+	<key>CustomLevelName</key>
+	<string>Custom_Chimney_Climb</string>
 </dict>
 </plist>

@@ -20167,5 +20167,7 @@
 		<key>ProjectName</key>
 		<string>Boom!</string>
 	</dict>
+	<key>CustomLevelName</key>
+	<string>Custom_Jungle_Gym_v2</string>
 </dict>
 </plist>

@@ -3847,5 +3847,7 @@
 		<key>ProjectName</key>
 		<string>Boom!</string>
 	</dict>
+	<key>CustomLevelName</key>
+	<string>Custom_WereSpring</string>
 </dict>
 </plist>

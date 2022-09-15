@@ -3705,5 +3705,7 @@
 		<key>ZoomValue</key>
 		<real>1</real>
 	</dict>
+	<key>CustomLevelName</key>
+	<string>Custom_Doodle_Jump</string>
 </dict>
 </plist>

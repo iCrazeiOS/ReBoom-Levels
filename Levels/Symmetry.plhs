@@ -3167,5 +3167,7 @@
 		<key>ProjectName</key>
 		<string>Boom!</string>
 	</dict>
+	<key>CustomLevelName</key>
+	<string>Custom_Symmetry</string>
 </dict>
 </plist>

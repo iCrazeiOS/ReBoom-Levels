@@ -2283,5 +2283,7 @@
 		<key>ProjectName</key>
 		<string>Boom!</string>
 	</dict>
+	<key>CustomLevelName</key>
+	<string>Custom_Free_Runner</string>
 </dict>
 </plist>
