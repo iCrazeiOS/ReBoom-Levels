@@ -83,5 +83,9 @@
 		"display_name": "Roundabout",
 		"filename": "Roundabout",
 		"author": "Nik"
+	}, {
+		"display_name": "Wheel Catcher",
+		"filename": "Wheel_Catcher",
+		"author": "lachylegend"
 	}
 ]
